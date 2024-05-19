@@ -99,7 +99,6 @@ def VIEW():
     Number.set(PHONE)
         
 
-#function to exit game window   
 def EXIT():
     root.destroy()
 
